@@ -1,13 +1,14 @@
 name: buttmd_ext
-description: A starting point for Dart libraries or applications.
+description: 〝For to Buttress up with Generic MarkDown, like the Flying Buttresses〟.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/LingaDocka/ButtMDExtension
 
 environment:
   sdk: ^3.3.0
 
 # Add regular dependencies here.
 dependencies:
+  markdown: ^7.2.2
   # path: ^1.8.0
 
 dev_dependencies:
